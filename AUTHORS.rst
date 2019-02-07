@@ -32,6 +32,7 @@ Individual contributors to the source code
 - Dimitrios Christidis <dimitrios.christidis@cern.ch>, 2018
 - Igor Mandrichenko <ivm@fnal.gov>, 2018
 - Shreyansh Khajanchi <shreyansh_k@live.com>, 2018
+- Evan Massaro <evan.keefe.massaro@cern.ch>, 2019
 
 Organisations employing contributors
 ------------------------------------
@@ -48,3 +49,4 @@ Organisations employing contributors
 - Fermi National Accelerator Laboratory (USA)
 - Leopold-Franzens Universität Innsbruck (Austria)
 - Academia Sinica (Taiwan)
+- Massachusetts Institute of Technology (USA)
