@@ -241,6 +241,7 @@ def get_client(args):
     """
     Returns a new client object.
     """
+    print('Hello World, but this time in the right place?')
     if args.auth_strategy == 'userpass':
         creds = {'username': args.username, 'password': args.password}
     else:
