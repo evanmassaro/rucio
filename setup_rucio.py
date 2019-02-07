@@ -22,6 +22,7 @@
 '''
 Setup.py which moves kerberos modules in extra dependencies to be buildthedocs compliant.
 '''
+print('Hello World!')
 
 import glob
 import os
